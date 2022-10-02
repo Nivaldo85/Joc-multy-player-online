@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1622329509901233663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2652248220598181844, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_Name
+      value: jeep2 1 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -24.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220598181845, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248219786191632, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220557167447, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248219294242036, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220717748777, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248220858809261, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248219735207537, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248219693028609, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2652248219841462406, guid: 53f64f3666be8df4c96e2ebbaffaf3b5,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53f64f3666be8df4c96e2ebbaffaf3b5, type: 3}
